@@ -1,4 +1,0 @@
-moviepy
-opencv-python
-pydub
-numpy
